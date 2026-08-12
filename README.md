@@ -30,40 +30,30 @@
 
 ---
 
-<!-- ANIMATED DIVIDER -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
-<!-- ============================================================ -->
-<!--                      ABOUT ME SECTION                         -->
-<!-- ============================================================ -->
-
 ## 🚀 About Me
 
 <div align="center">
-  <table border="0" align="center">
+  <table>
     <tr>
-      <td align="center" width="60%">
+      <td width="60%">
         <p align="left">
           <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
-          <strong>Hey there!</strong> I'm <strong>Mantoo Kushwaha</strong>, a passionate <strong>Android Developer</strong>
-          dedicated to crafting modern, high-performance mobile applications.
+          <strong>Hey there!</strong> I'm <strong>Mantoo Kushwaha</strong>, a passionate <strong>Android Developer</strong> dedicated to crafting modern, high-performance mobile applications.
         </p>
-        
         <p align="left">
           <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
-          <strong>My superpower:</strong> Turning complex ideas into clean, 
-          user-friendly mobile experiences using <strong>Kotlin</strong> and <strong>Jetpack Compose</strong>.
+          <strong>My superpower:</strong> Turning complex ideas into clean, user-friendly mobile experiences using <strong>Kotlin</strong> and <strong>Jetpack Compose</strong>.
         </p>
-        
         <p align="left">
           <img src="https://media.giphy.com/media/LnQjpWaON8nZ21oras/giphy.gif" width="30" />
-          <strong>I believe in:</strong> Writing clean code, following <strong>MVVM</strong> architecture,
-          and staying up-to-date with the latest Android technologies.
+          <strong>I believe in:</strong> Writing clean code, following <strong>MVVM</strong> architecture, and staying up-to-date with the latest Android technologies.
         </p>
       </td>
-      <td align="center" width="40%">
+      <td width="40%" align="center">
         <img src="https://raw.githubusercontent.com/suryakushwaha3/suryakushwaha3/main/android-development.gif" width="280" alt="Android Development" />
         <br/>
         <em>Building the future, one app at a time ✨</em>
@@ -71,10 +61,6 @@
     </tr>
   </table>
 </div>
-
-<!-- ============================================================ -->
-<!--                   TECH STACK SECTION                          -->
-<!-- ============================================================ -->
 
 ## 🧰 Tech Stack
 
@@ -156,10 +142,6 @@
   </table>
 </div>
 
-<!-- ============================================================ -->
-<!--                  FEATURED PROJECTS                            -->
-<!-- ============================================================ -->
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -169,7 +151,7 @@
         <h3 align="center">🎬 Alpha Player</h3>
         <div align="center">
           <a href="https://github.com/suryakushwaha3/Alpha_Player">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryakushwaha3&repo=Alpha_Player&theme=react&bg_color=0D1117&border_color=00C6FF" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryakushwaha3&repo=Alpha_Player&theme=tokyonight&bg_color=0D1117&border_color=00C6FF" />
           </a>
           <p>
             <strong>Modern Media Streaming App</strong><br/>
@@ -187,7 +169,7 @@
         <h3 align="center">💬 Velora Chat</h3>
         <div align="center">
           <a href="https://github.com/suryakushwaha3/Velora">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryakushwaha3&repo=Velora&theme=react&bg_color=0D1117&border_color=00C6FF" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryakushwaha3&repo=Velora&theme=tokyonight&bg_color=0D1117&border_color=00C6FF" />
           </a>
           <p>
             <strong>Real-Time Messaging App</strong><br/>
@@ -207,7 +189,7 @@
         <h3 align="center">☁️ SkyPulse</h3>
         <div align="center">
           <a href="https://github.com/suryakushwaha3/SkyPulse">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryakushwaha3&repo=SkyPulse&theme=react&bg_color=0D1117&border_color=00C6FF" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryakushwaha3&repo=SkyPulse&theme=tokyonight&bg_color=0D1117&border_color=00C6FF" />
           </a>
           <p>
             <strong>Modern Weather App</strong><br/>
@@ -225,7 +207,7 @@
         <h3 align="center">📝 Notes App</h3>
         <div align="center">
           <a href="https://github.com/suryakushwaha3/Notes">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryakushwaha3&repo=Notes&theme=react&bg_color=0D1117&border_color=00C6FF" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryakushwaha3&repo=Notes&theme=tokyonight&bg_color=0D1117&border_color=00C6FF" />
           </a>
           <p>
             <strong>Minimal Notes Manager</strong><br/>
@@ -242,10 +224,6 @@
     </tr>
   </table>
 </div>
-
-<!-- ============================================================ -->
-<!--                    GITHUB STATS                               -->
-<!-- ============================================================ -->
 
 ## 📊 GitHub Analytics
 
@@ -270,19 +248,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=suryakushwaha3&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
-<!-- ============================================================ -->
-<!--                  ACTIVITY GRAPH                               -->
-<!-- ============================================================ -->
-
 ## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=suryakushwaha3&bg_color=0D1117&color=00C6FF&line=7A00FF&point=00C6FF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
-
-<!-- ============================================================ -->
-<!--                    CONNECT WITH ME                            -->
-<!-- ============================================================ -->
 
 ## 🤝 Let's Connect
 
@@ -313,16 +283,11 @@
   </table>
 </div>
 
-<!-- ============================================================ -->
-<!--                    VISITOR COUNT                              -->
-<!-- ============================================================ -->
-
 <div align="center">
   <br/>
   <img src="https://komarev.com/ghpvc/?username=suryakushwaha3&label=Profile%20Views&color=00C6FF&style=flat" alt="Profile Views" />
   <br/><br/>
   
-  <!-- ANIMATED DIVIDER -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
   
   <br/>
@@ -337,81 +302,3 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
   </p>
 </div>
-
-<!-- 
-  ═══════════════════════════════════════════════════════════════════════
-  CUSTOM CSS FOR BETTER VISUAL APPEAL (Works on GitHub)
-  ═══════════════════════════════════════════════════════════════════════
--->
-<style>
-  /* Smooth animations and better visual appeal */
-  table {
-    border-collapse: collapse;
-    border: none !important;
-  }
-  
-  td, th {
-    border: none !important;
-    padding: 12px !important;
-  }
-  
-  /* Glowing effect for headings */
-  h2, h3 {
-    background: linear-gradient(135deg, #00C6FF 0%, #7A00FF 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-    font-weight: 800 !important;
-    letter-spacing: -0.5px;
-  }
-  
-  /* Smooth hover for badges */
-  img[alt*="badge"]:hover {
-    transform: scale(1.05);
-    transition: transform 0.3s ease-in-out;
-  }
-  
-  /* Profile card styling */
-  .profile-card {
-    background: linear-gradient(145deg, #0D1117, #161B22);
-    border: 1px solid #30363D;
-    border-radius: 16px;
-    padding: 24px;
-    transition: all 0.3s ease;
-  }
-  
-  .profile-card:hover {
-    border-color: #00C6FF;
-    box-shadow: 0 0 30px rgba(0, 198, 255, 0.1);
-  }
-  
-  /* Tech icon animations */
-  [alt*="Kotlin"]:hover,
-  [alt*="Android"]:hover,
-  [alt*="Firebase"]:hover {
-    animation: pulse 1s infinite;
-  }
-  
-  @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.1); }
-    100% { transform: scale(1); }
-  }
-  
-  /* Divider styling */
-  img[alt*="divider"] {
-    width: 100%;
-    max-width: 800px;
-  }
-</style>
-
-<!-- 
-  ═══════════════════════════════════════════════════════════════════════
-  HIDDEN COMMENTS FOR SEO & DISCOVERABILITY
-  ═══════════════════════════════════════════════════════════════════════
--->
-<!-- 
-  Keywords: Android Developer, Kotlin, Jetpack Compose, MVVM, Firebase, 
-  Mobile App Development, Android Studio, Coroutines, StateFlow, Room DB,
-  REST API, Open Source, Mantoo Kushwaha, Surya Kushwaha
--->
